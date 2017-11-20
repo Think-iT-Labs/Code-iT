@@ -1,7 +1,8 @@
 # Code-iT
 Code Review Platform in React/Redux
 
-#Instructions
+# Instructions
+
 ## backend
 * cd backend
 * npm install 
