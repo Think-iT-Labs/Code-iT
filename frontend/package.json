@@ -1,0 +1,40 @@
+{
+  "name": "code-it-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "^1.0.10"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "draft-js-code": "^0.2.0",
+    "draft-js-prism": "^1.0.3",
+    "immutable": "^3.8.1",
+    "jsonwebtoken": "^8.1.0",
+    "lodash": "^4.17.4",
+    "oauth-js": "^0.9.9",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-highlight": "^0.10.0",
+    "react-prism": "^4.3.0",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "next",
+    "redux": "^3.6.0",
+    "redux-auth": "0.0.5-beta5",
+    "redux-connect": "^5.1.0",
+    "redux-immutablejs": "0.0.8",
+    "redux-implicit-oauth2": "^1.2.0",
+    "redux-oauth": "^2.0.8",
+    "redux-thunk": "^2.2.0",
+    "sanitize.css": "^5.0.0",
+    "semantic-ui-react": "^0.73.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
